@@ -6,7 +6,7 @@ Formado em **Física pelo IFSP** e Mestre em **Pesquisa Clínica pela UNESP**, d
 Ao longo da minha jornada, mergulhei em projetos que vão desde a análise de grandes volumes de dados clínicos para prever riscos de doenças, até a construção de sistemas de simulação educacional com inteligência artificial. Minha abordagem é **end-to-end**: concebo a solução, modelo os dados, treino e avalio modelos de machine learning, e entrego resultados claros e acionáveis — sempre com atenção à qualidade, ética e conformidade (LGPD).
 
 **Áreas de interesse:** Ciência de Dados aplicada à Saúde, Educação, Finanças, Operações e Pesquisa Científica.  
-**Ferramentas:** Python (Pandas, Scikit-learn, PyTorch, Matplotlib), R (tidyverse), MATLAB, SQL, Power BI, Streamlit, Docker.  
+**Ferramentas:** Python (Pandas, Scikit-learn, PyTorch, Matplotlib), R (dplyr, tidyr, ggplot2, tidymodels/caret, randomForest/xgboost, Shiny, RMarkdown), MATLAB, SQL, Power BI, Streamlit, Docker.  
 **Especialidades:** Análise estatística avançada, visualização de dados, integração de múltiplas linguagens, desenvolvimento de relatórios automatizados.
 
 ---
