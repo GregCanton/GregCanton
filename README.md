@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="260px"/>
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%"/>
 </p>
 🌙🚀 Cientista de Dados • Machine Learning • IA Aplicada
 
@@ -52,4 +52,4 @@ Docker • Streamlit • SQL • MATLAB • Git
 🔗 Integração Python + R + MATLAB
 
 🌐 Conecte-se
-<p align="left"> <a href="https://www.linkedin.com/in/gregoriocanton"> <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00eaff"/> </a> <a href="mailto:gregorioplaterocanton@gmail.com"> <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=ff0055"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gregóriocanton"> <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00eaff"/> </a> <a href="mailto:gp.canton@unesp.br"> <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=ff0055"/> </a> </p>
