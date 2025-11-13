@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="85%"/>
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35%"/>
 </p>
 🌙🚀 Cientista de Dados • Machine Learning • IA Aplicada
 
