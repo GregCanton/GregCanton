@@ -1,24 +1,53 @@
-## Olá, eu sou o Gregório Canton
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJlZ2RlMHBtZHp1MnUzeTNkaDFmMmFsaDR6MjJ6bGlsdW5wOXIxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fwbQZxjCgMNf2/giphy.gif" width="85%" /> </p>
+🌙🚀 Cientista de Dados • Machine Learning • IA Aplicada
 
-Sou **Cientista de Dados** com uma trajetória que une **rigor científico** e **criatividade analítica**.  
-Formado em **Física pelo IFSP** e Mestre em **Pesquisa Clínica pela UNESP**, desenvolvi minha carreira explorando o ponto de encontro entre **ciência, tecnologia e impacto social**.
+Sou Cientista de Dados com formação em Física (IFSP) e Mestrado em Pesquisa Clínica (UNESP).
+Desenvolvo sistemas de IA aplicada, modelagem estatística e pipelines completos de Data Science — sempre com foco em rigor, impacto e clareza.
 
-Ao longo da minha jornada, mergulhei em projetos que vão desde a análise de grandes volumes de dados clínicos para prever riscos de doenças, até a construção de sistemas de simulação educacional com inteligência artificial. Minha abordagem é **end-to-end**: concebo a solução, modelo os dados, treino e avalio modelos de machine learning, e entrego resultados claros e acionáveis — sempre com atenção à qualidade, ética e conformidade (LGPD).
+Trabalho com modelagem probabilística, machine learning, deep learning e integração entre Python, R e MATLAB, criando soluções robustas e explicáveis.
 
-**Áreas de interesse:** Ciência de Dados aplicada à Saúde, Educação, Finanças, Operações e Pesquisa Científica.  
-**Ferramentas:** Python (Pandas, Scikit-learn, PyTorch, Matplotlib, Seaborn,scipy.stats, statsmodels,	stats, car	Statistics,	pymc, stan, emcee,	brms, rstanarm	,Bayes,Net, Toolbox, tensorflow, pytorch	caret, mlr3), R (dplyr, tidyr, ggplot2, tidymodels/caret, randomForest/xgboost, Shiny, RMarkdown), MATLAB, SQL, Power BI, Streamlit, Docker.  
-**Especialidades:** Análise estatística avançada, visualização de dados, integração de múltiplas linguagens, desenvolvimento de relatórios automatizados.
+🎨 Badges Neon (Dark + Glow)
+<p align="center"> <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=00eaff" /> <img src="https://img.shields.io/badge/R-111?style=for-the-badge&logo=r&logoColor=ff00e1" /> <img src="https://img.shields.io/badge/MATLAB-111?style=for-the-badge&logo=mathworks&logoColor=fcee09" /> <img src="https://img.shields.io/badge/Scikit--Learn-111?style=for-the-badge&logo=scikitlearn&logoColor=ff9100" /> <img src="https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch&logoColor=ff3b30" /> <img src="https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" /> <img src="https://img.shields.io/badge/PyMC-111?style=for-the-badge&logo=pymc&logoColor=00ffc6" /> <img src="https://img.shields.io/badge/Stan-111?style=for-the-badge&logoColor=ff0055" /> <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=00aaff" /> <img src="https://img.shields.io/badge/Streamlit-111?style=for-the-badge&logo=streamlit&logoColor=ff4bff" /> <img src="https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=009dff" /> </p>
+⚡ Especialidades
 
----
+Pipelines completos: ETL → EDA → Modelos → Deploy
 
-### Minha filosofia de trabalho
-> “Dados são histórias esperando para ser contadas — e meu papel é dar a elas voz, clareza e propósito.”
+Machine Learning (supervisionado, não supervisionado)
 
-Acredito que **insights bem construídos** mudam decisões, transformam processos e impulsionam resultados.  
-Meu compromisso é entregar soluções técnicas que façam sentido para o negócio e que sejam sustentáveis, seguras e escaláveis.
+Deep Learning: CNNs, sequências, visão computacional
 
----
+Estatística avançada e modelagem bayesiana
 
-### Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/gregório-canton-6494a617b)
-- Email: gp.canton@uol.com.br
+IA aplicada à saúde, finanças, educação e ciência
+
+Feature engineering, tuning e explicabilidade
+
+Dashboards, APIs e automações
+
+Integração Python, R e MATLAB
+
+🧠 Stack Técnico (Neon Edition)
+
+Python
+Pandas • Numpy • SciPy • Sklearn • PyTorch • TensorFlow • Statsmodels • PyMC
+
+R
+tidyverse • ggplot2 • caret • tidymodels • xgboost • brms • rstanarm
+
+Bayesiano
+PyMC • Stan • brms • emcee
+
+Infra & Deploy
+Docker • Streamlit • SQL • MATLAB • Git
+
+📁 O que você encontra aqui
+
+🟣 Projetos completos
+💠 Modelos preditivos e probabilísticos
+🌌 Dashboards e APIs
+⚙️ Pipelines reprodutíveis
+🔬 Projetos em saúde, educação, finanças e ciência
+🔗 Integração Python + R + MATLAB
+
+🌐 Conecte-se
+<p align="left"> <a href="https://www.linkedin.com/in/gregoriocanton"> <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00eaff"/> </a> <a href="mailto:gregorioplaterocanton@gmail.com"> <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=ff0055"/> </a> </p>
