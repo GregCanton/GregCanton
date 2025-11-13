@@ -52,4 +52,4 @@ Docker • Streamlit • SQL • MATLAB • Git
 🔗 Integração Python + R + MATLAB
 
 🌐 Conecte-se
-<p align="left"> <a href="https://www.linkedin.com/in/gregóriocanton"> <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00eaff"/> </a> <a href="mailto:gp.canton@unesp.br"> <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=ff0055"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gregório-canton-6494a617b"> <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=00eaff"/> </a> <a href="mailto:gp.canton@unesp.br"> <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=ff0055"/> </a> </p>
