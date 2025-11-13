@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRxNW13aGhxa2o1ZGY2Yjk0bG4ybmpiazAxazM5MHVhN3h3aGZzOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1ynCEtlgMPAeNAqdnu/giphy.gif" width="260px"/> </p>
+<p align="center">
+<img src="https://i.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="260px"/>
+</p>
 🌙🚀 Cientista de Dados • Machine Learning • IA Aplicada
 
 Sou Cientista de Dados com formação em Física (IFSP) e Mestrado em Pesquisa Clínica (UNESP).
