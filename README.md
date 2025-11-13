@@ -46,10 +46,15 @@ Docker • Streamlit • SQL • MATLAB • Git
 📁 O que você encontra aqui
 
 🟣 Projetos completos
+
 💠 Modelos preditivos e probabilísticos
+
 🌌 Dashboards
+
 ⚙️ Pipelines reprodutíveis
+
 🔬 Projetos em saúde, educação, finanças e ciência
+
 🔗 Integração Python + R + MATLAB
 
 🌐 Conecte-se
